@@ -13,9 +13,9 @@ const client = new Client({
   restTimeOffset: 0
 });
 
-client.login(TOKEN);
+client.login(ODI4NTY4MDE2NzgxMzEyMDAz.YGreGQ.xn8zX699AUJ2TQuixJNTyeZSL1o);
 client.commands = new Collection();
-client.prefix = PREFIX;
+client.prefix = PREFIX;$
 client.queue = new Map();
 const cooldowns = new Collection();
 const escapeRegex = (str) => str.replace(/[.*+?^${}()|[\]\\]/g, "\\$&");
